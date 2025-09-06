@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+GaussianNB
+metrix - accuracy_score,classification_report,confusion_matrix
